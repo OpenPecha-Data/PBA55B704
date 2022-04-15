@@ -1,0 +1,31 @@
+id: PBA55B704
+initial_creation_type: input
+source_metadata:
+  title: Rong stons sub-commentary on Haribhadras Sphuṭārthā (block print), colophon
+    excerpt
+  author: rong ston shes bya kun rig
+  description: 'Digital version 1.0 {Wylie}, diplomatic edition of witness A; WYLIE
+    COPY of master xml (completed: 2020-05-20); revision in process, thematic TEI
+    markup'
+  source: https://sakyaresearch.org
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Excerpt/Colophon'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:Mathias Fermer (mf)
+  - Editorial process:-
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/1527
+  bases:
+    ee05:
+      title: Rong stons sub-commentary on Haribhadras Sphuṭārthā (block print), colophon
+        excerpt
+      order: 1
+      base_file: ee05.txt
+created_at: '2022-04-15T18:50:17.661158'
+last_modified_at: '2022-04-15T18:50:17.661165'
+quality: null
